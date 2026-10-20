@@ -1,0 +1,8 @@
+node_modules/
+Ultron.exe
+UltronTests.exe
+UltronTestsWin.exe
+tests-output.txt
+*.wav
+*.mp3
+*.log
